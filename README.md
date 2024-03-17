@@ -1,2 +1,2 @@
-# Air-quality
-Air quality with machine learning
+# Napovedni model kakovosti zraka
+Projekt pri predmetu Matematika z računalnikom
